@@ -18,9 +18,9 @@
 
 ### 다양한 명칭
 - 고객 페르소나는 밑의 항목으로도 불림:
-  - **Buyer Persona (구매자 페르소나)**
-  - **Marketing Persona (마케팅 페르소나)**  
-  - **Audience Persona (시청자 페르소나)**
+  - **Buyer Persona**
+  - **Marketing Persona**  
+  - **Audience Persona**
 
 ### 핵심 개념
 - **바람직한 시청자 내 유사한 사람들의 그룹을 대표**하는 것
