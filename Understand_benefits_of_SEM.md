@@ -133,7 +133,7 @@
 - **검색 결과 상단/하단에 표시**
 - **제목, 설명, URL로 구성**
 
-## 📊 SEM vs Organic Search 비교
+## SEM vs Organic Search 비교
 
 | 구분 | SEM (유료 광고) | Organic Search |
 |------|-----------------|-------------|
